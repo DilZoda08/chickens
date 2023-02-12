@@ -1,0 +1,6 @@
+Ship
+Crocodile
+Monkey 
+Girafe 
+Donkey
+Zebra
